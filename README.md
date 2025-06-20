@@ -1,4 +1,4 @@
-# Real-time-chat-Application
+# Real-time-chat-Application-SpringBoot
 
 A scalable real-time chat application built with Spring Boot, WebSockets, STOMP, and SockJS. Enables instant messaging between users in a secure and efficient backend system.
 
